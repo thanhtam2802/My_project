@@ -1,5 +1,4 @@
 # My_project
 my name is Tam
-Repo học code
-
+lam viec hang say
 Thanh Tam
